@@ -26,17 +26,6 @@ This is a simple Todo extension for [Opera/Chrome/Firefox/etc.] that allows user
 
 Once installed, the extension should appear in your browser toolbar. Click on the extension icon to open the Todo interface. From there, you can add, edit, complete, and delete tasks as needed.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/improvement`).
-6. Create a new Pull Request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
